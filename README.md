@@ -10,9 +10,5 @@ This is a bash script designed to automate the processing of RNA sequencing data
 
 To run the script, follow the steps below:
 
-Open a terminal window and navigate to the directory containing the script.
-Type "chmod +x <script_name>" to make the script executable.
-Type "./<script_name>" to run the script.
-When prompted, enter the name of the fastq file to be processed.
-Wait for the script to complete. The output files will be saved in the "HISAT2" and "calculations" directories.
+The output files will be saved in the "HISAT2" and "calculations" directories.
 Note: This script has been designed and tested on a Unix-based system. It may require modifications to work on other operating systems.
